@@ -1,0 +1,12 @@
+polars
+pandas
+numpy
+duckdb
+xgboost
+scikit-learn
+joblib
+streamlit
+beautifulsoup4
+requests
+shap
+pyarrow
